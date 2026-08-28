@@ -58,3 +58,9 @@ This repository is the place to reach out about Drikus Demo Deck:
 Every issue gets read. This is a one-person app built by someone who also
 needed it, so feedback from people actually using it is what shapes what
 happens next.
+
+## Privacy
+
+Nothing leaves your phone, and this app has no accounts, analytics, or
+third-party SDKs. See the full [Privacy Policy](PRIVACY.md) for exactly what
+the microphone, speech recognition, and location permissions are used for.
